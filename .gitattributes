@@ -1,0 +1,2 @@
+# my_submission/model.git reset .ckpt filter=lfs diff=lfs merge=lfs -text
+my_submission/model.pth filter=lfs diff=lfs merge=lfs -text
